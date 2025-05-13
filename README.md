@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]
+# 👋 Hi there, I'm Akshay Rane
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0969DA&random=false&width=435&lines=Security+Researcher;Network+Specialist;Python+Developer" alt="Typing SVG" />
@@ -50,7 +50,7 @@ I'm a passionate cybersecurity researcher and Python developer with a focus on n
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AkshayRane05&theme=github-dark-blue" alt="AkshayRane05" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AkshayRane05&theme=github-dark-blue" alt="AkshayRane05"/>
 </div>
 
 ## 🏆 GitHub Trophies
@@ -62,8 +62,8 @@ I'm a passionate cybersecurity researcher and Python developer with a focus on n
 ## 🔝 Top Repositories
 
 <div align="center">
-  <a href="https://github.com/AkshayRane05/ssh-botnet">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkshayRane05&repo=ssh-botnet&theme=github_dark" />
+  <a href="https://github.com/AkshayRane05/ssh_botnet">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkshayRane05&repo=ssh_botnet&theme=github_dark" />
   </a>
   <a href="https://github.com/AkshayRane05/outbound-connection-monitor">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkshayRane05&repo=outbound-connection-monitor&theme=github_dark" />
