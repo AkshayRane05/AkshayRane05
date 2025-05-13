@@ -62,9 +62,6 @@ I'm a passionate cybersecurity researcher and Python developer with a focus on n
 ## 🔝 Top Repositories
 
 <div align="center">
-  <a href="https://github.com/AkshayRane05/ssh_botnet">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkshayRane05&repo=ssh_botnet&theme=github_dark" />
-  </a>
   <a href="https://github.com/AkshayRane05/outbound-connection-monitor">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkshayRane05&repo=outbound-connection-monitor&theme=github_dark" />
   </a>
@@ -80,5 +77,5 @@ I'm a passionate cybersecurity researcher and Python developer with a focus on n
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AkshayRane05/AkshayRane05/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  
 </div>
