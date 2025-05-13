@@ -19,7 +19,7 @@ I'm a passionate cybersecurity researcher and Python developer with a focus on n
 - 📫 How to reach me: [akshay.05505@gmail.com](mailto:akshay.05505@gmail.com)
 
 <p align="center">
-  <a href="https://linkedin.com/in/akshayrane-218810259">
+  <a href="https://linkedin.com/in/akshay-rane-218810259">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/Akshay_005_">
@@ -39,7 +39,6 @@ I'm a passionate cybersecurity researcher and Python developer with a focus on n
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
   <img src="https://img.shields.io/badge/Metasploit-E23744?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
 </p>
 
 ## 📊 GitHub Stats
