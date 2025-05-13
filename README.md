@@ -80,5 +80,5 @@ I'm a passionate cybersecurity researcher and Python developer with a focus on n
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AkshayRane05/AkshayRane05/output/github-contribution-grid-snake.gif" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/AkshayRane05/AkshayRane05/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </div>
