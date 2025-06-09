@@ -62,7 +62,20 @@ I'm a passionate cybersecurity researcher and Python developer with a focus on n
 
 ## 🔝 Top Repositories
 
-
+<div align="center">
+  <a href="https://github.com/AkshayRane05/SSH-Botnet">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkshayRane05&repo=SSH-Botnet&theme=github_dark" />
+  </a>
+  <a href="https://github.com/AkshayRane05/Outbound-Network-Monitor">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkshayRane05&repo=Outbound-Network-Monitor&theme=github_dark" />
+  </a>
+  <a href="https://github.com/AkshayRane05/Phishing-Detection-Tool">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkshayRane05&repo=Phishing-Detection-Tool&theme=github_dark" />
+  </a>
+  <a href="https://github.com/AkshayRane05/Network-Scanner">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkshayRane05&repo=Network-Scanner&theme=github_dark" />
+  </a>
+</div>
 
 ---
 
